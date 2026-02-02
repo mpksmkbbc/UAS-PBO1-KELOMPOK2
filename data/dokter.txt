@@ -1,0 +1,2 @@
+1122|assss|4444444444|Umum|Minggu|200000.0
+2222|test|2222222222|bedah|senin-minggu|222222.0
