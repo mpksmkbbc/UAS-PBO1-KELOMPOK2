@@ -1,6 +1,7 @@
 # UAS-PBO1-KELOMPOK2
 Mata Kuliah    : Pemrograman Berbasis Objek 2
 Dosen Pengampu : Gia Yuliana, S. Kom.
+Tema Projek    : Klinik Sederhana
 Kelas          : TIF RP 24D
 
 Anggota Kelompok :
